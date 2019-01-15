@@ -22,3 +22,7 @@ chrome-user-data
 .vscode
 *.swp
 *.swo
+dist
+.next
+package-lock.json
+config.json
