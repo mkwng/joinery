@@ -26,3 +26,4 @@ dist
 .next
 package-lock.json
 config.json
+src/firebase.js
